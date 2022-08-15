@@ -1,6 +1,8 @@
 # Simple-Paint-like-Program
 
-This program uses OpenGL library to implement its functionalities.
+Note : This is coded via an older version on OpenGL.
+
+This program uses OpenGL API to implement its functionalities.
 
 I was messing around with Digital Differential Analyzer algorithm for line drawing and came up with this program.
 

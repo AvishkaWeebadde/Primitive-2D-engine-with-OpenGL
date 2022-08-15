@@ -1,6 +1,6 @@
 ﻿  Source.cpp
-D:\Simple-Paint-like-Program\PaintWithOpenGL\PaintWithOpenGL\Source.cpp(20,10): warning C4244: 'initializing': conversion from 'GLint' to 'float', possible loss of data
-D:\Simple-Paint-like-Program\PaintWithOpenGL\PaintWithOpenGL\Source.cpp(21,10): warning C4244: 'initializing': conversion from 'GLint' to 'float', possible loss of data
-D:\Simple-Paint-like-Program\PaintWithOpenGL\PaintWithOpenGL\Source.cpp(25,17): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
-D:\Simple-Paint-like-Program\PaintWithOpenGL\PaintWithOpenGL\Source.cpp(25,14): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
-  PaintWithOpenGL.vcxproj -> D:\Simple-Paint-like-Program\PaintWithOpenGL\Debug\PaintWithOpenGL.exe
+D:\projects\Simple-Paint-like-Program\PaintWithOpenGL\PaintWithOpenGL\Source.cpp(20,10): warning C4244: 'initializing': conversion from 'GLint' to 'float', possible loss of data
+D:\projects\Simple-Paint-like-Program\PaintWithOpenGL\PaintWithOpenGL\Source.cpp(21,10): warning C4244: 'initializing': conversion from 'GLint' to 'float', possible loss of data
+D:\projects\Simple-Paint-like-Program\PaintWithOpenGL\PaintWithOpenGL\Source.cpp(25,17): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+D:\projects\Simple-Paint-like-Program\PaintWithOpenGL\PaintWithOpenGL\Source.cpp(25,14): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+  PaintWithOpenGL.vcxproj -> D:\projects\Simple-Paint-like-Program\PaintWithOpenGL\Debug\PaintWithOpenGL.exe
