@@ -1,4 +1,3 @@
-# Simple-Paint-like-Program
 
 Note : This is coded via an older version on OpenGL.
 
